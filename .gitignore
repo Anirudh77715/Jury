@@ -1,0 +1,10 @@
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Netlify CLI state
+.netlify/
+
+# local tooling, in case it is ever added
+node_modules/
